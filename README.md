@@ -1,6 +1,8 @@
 # Advent of Code
 
-Think of functional programming when you are reading these scripts.
+This is follow up code for this project: http://adventofcode.com/.
+
+_Think of functional programming while you are reading these scripts._
 
 There is only one rule for this challenge:
 1. No keyword can be used on this programming challenge.
@@ -10,6 +12,8 @@ There is only one rule for this challenge:
 
 
 ## FAQ
+- Which language is this?
+    - Javascript in its' full beauty. ES6 :)
 - Should you program like this on daily bases?
     - for gods' sake, no. :)
 - Am I stupid?
