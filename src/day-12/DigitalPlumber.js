@@ -16,7 +16,7 @@ module.exports = (_input) => (
     )(
         _input.split('\n'),
         0,
-        new Array(_input.split('\n').length)
+        Array(_input.split('\n').length)
     ).reduce((red, val) => red + 1, 0)
 );
 
