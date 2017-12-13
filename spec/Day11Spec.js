@@ -4,9 +4,6 @@ describe("Day 11", function () {
     it("when ne,ne,ne should be 3", function () {
         expect(hexEd('ne,ne,ne')).toEqual(3);
     });
-    it("when ne,ne,sw,sw should be 0", function () {
-        expect(hexEd('ne,ne,sw,sw')).toEqual(0);
-    });
     it("when se,sw,se,sw,sw should be 3", function () {
         expect(hexEd('se,sw,se,sw,sw')).toEqual(3);
     });
